@@ -2,66 +2,48 @@
 
 <br/>
 
-[![Documentation](https://img.shields.io/badge/doc-on_website-brightgreen.svg)](https://www.sofa-framework.org/community/doc/)
-[![Support](https://img.shields.io/badge/support-on_GitHub_Discussions-orange.svg)](https://github.com/sofa-framework/sofa/discussions)
-[![Gitter](https://img.shields.io/badge/chat-on_Gitter-darkred.svg)](https://gitter.im/sofa-framework/sofa)
-
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonType%3DFollowButton%26query%3Dhttps%253A%252F%252Ftwitter.com%252FSofaFramework%26widget%3DButton&ref_src=twsrc%5Etfw&region=follow_link&screen_name=SofaFramework&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/SofaFramework?label=Follow%20%40SofaFramework&style=social"></a>
-[![Contact](https://img.shields.io/badge/contact-on_website-brightgreen.svg)](https://www.sofa-framework.org/consortium/contact/)
-[![we're hiring](https://img.shields.io/badge/we're%20hiring!-join%20us-orange)](https://www.sofa-framework.org/about/jobs/)
-
-## What is SOFA
-
-SOFA is an open source framework targeted at interactive physics simulation based on the Finite Element Method (FEM), with an emphasis on medical simulation and robotics.  
-It is mainly intended for the research community to help foster newer algorithms, but can also be used as an efficient prototyping tool.  
-SOFA's advanced software architecture allows:  
-- the creation of complex and evolving simulations by combining new algorithms with existing algorithms 
-- the modification of key parameters of the simulation such as deformable behavior, 
-  surface representation, solvers, constraints, collision algorithm, etc.  
-- the synthesis of complex models from simpler ones using a graph description
-- the efficient simulation of the dynamics of interacting objects using abstract equation solvers
-- the comparison of various algorithms and mathematical models
-
-SOFA is often presented as a standalone software (runSofa) and a simulation tool, but the project is most importantly a bundle of libraries and thus can be used/integrated in any project.  
-
-SOFA provides a plugin system allowing the coupling of additional codes to add functionalities. A lot of plugins are already referenced in the [source code](https://github.com/sofa-framework/sofa/tree/master/applications/plugins), under [sofa-framework organisation](https://github.com/orgs/sofa-framework/repositories?q=plugin&sort=name), and on the [Marketplace](https://www.sofa-framework.org/applications/marketplace/). Feel free to contact us to get your own plugins referenced!
-
-
-## How to download and install
-
-Please refer to SOFA download page: https://www.sofa-framework.org/download/
-
-
-## How to contribute
-
-The SOFA community will be pleased to welcome you!  
-Find all the ways to contribute to the project: https://www.sofa-framework.org/community/get-involved/
-
-Before creating any issue or pull request, please read carefully [our CONTRIBUTING rules](https://github.com/sofa-framework/sofa/blob/master/CONTRIBUTING.md).
-
-
-## Information
-
-### Authors
-See [Authors.txt](https://github.com/sofa-framework/sofa/blob/master/Authors.txt)
-
-### Licenses
-SOFA is LGPL, except:
-- applications/projects (GPL)
-- applications/tutorials (GPL)
-- directories with a license file specifying a different license
-
-LGPL refers to the GNU Lesser General Public License as published by the Free Software
-Foundation; either version 2.1 of the License, or (at your option) any later 
-version.
-
-GPL refers to the GNU General Public License as published by the Free Software Foundation;
-either version 2 of the License, or (at your option) any later version.
-
-### Contact
-contact@sofa-framework.org
-
------------------------------------------------------------------------------
-
-SOFA, Simulation Open-Framework Architecture  
-(c) 2006 INRIA, USTL, UJF, CNRS, MGH
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://www.sofa-framework.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/d3d86f37fcbfaefceab3879e08d42cd9afd076d1b32c11a544f7e15db5dc9b7a/68747470733a2f2f7777772e736f66612d6672616d65776f726b2e6f72672f77702d636f6e74656e742f75706c6f6164732f323031332f30312f534f46415f4c4f474f5f4f52414e47455f322d6e6f726d616c2e706e67" alt="SOFA，模拟开放框架架构" data-canonical-src="https://www.sofa-framework.org/wp-content/uploads/2013/01/SOFA_LOGO_ORANGE_2-normal.png" style="max-width: 100%;"></a></p>
+<br>
+<p dir="auto"><a href="https://www.sofa-framework.org/community/doc/" rel="nofollow"><img src="https://camo.githubusercontent.com/5f2b1ddd8991b7294ec11d80d3b7c01a75850a71c2be69185ae54db9dbb5f755/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f632d6f6e5f776562736974652d627269676874677265656e2e737667" alt="文档" data-canonical-src="https://img.shields.io/badge/doc-on_website-brightgreen.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/sofa-framework/sofa/discussions"><img src="https://camo.githubusercontent.com/f181ecaa13096220f1fa9c5c25b493e142b51094e069b2d288d41d4ef05c198e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d6f6e5f4769744875625f44697363757373696f6e732d6f72616e67652e737667" alt="支持" data-canonical-src="https://img.shields.io/badge/support-on_GitHub_Discussions-orange.svg" style="max-width: 100%;"></a>
+<a href="https://gitter.im/sofa-framework/sofa" rel="nofollow"><img src="https://camo.githubusercontent.com/71791aac9e1b4a5a1ae2c41bd618b5e172c7aa68f02e3ae9ddeef70997b910a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e5f4769747465722d6461726b7265642e737667" alt="吉特" data-canonical-src="https://img.shields.io/badge/chat-on_Gitter-darkred.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F%3FbuttonType%3DFollowButton%26query%3Dhttps%253A%252F%252Ftwitter.com%252FSofaFramework%26widget%3DButton&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=SofaFramework&amp;tw_p=followbutton" rel="nofollow"><img src="https://camo.githubusercontent.com/843e7a2274461874b8f23149ed710044a0ba1213007792aa505269f4e1ef800b/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f536f66614672616d65776f726b3f6c6162656c3d466f6c6c6f77253230253430536f66614672616d65776f726b267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/twitter/follow/SofaFramework?label=Follow%20%40SofaFramework&amp;style=social" style="max-width: 100%;"></a>
+<a href="https://www.sofa-framework.org/consortium/contact/" rel="nofollow"><img src="https://camo.githubusercontent.com/f2b7dc1ffcd79d327a04e478338c2afd84b813adf5b6e3683e78fdbdf5de9f60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e746163742d6f6e5f776562736974652d627269676874677265656e2e737667" alt="接触" data-canonical-src="https://img.shields.io/badge/contact-on_website-brightgreen.svg" style="max-width: 100%;"></a>
+<a href="https://www.sofa-framework.org/about/jobs/" rel="nofollow"><img src="https://camo.githubusercontent.com/4a0ee0ce761e27576ab9aca51d9b7a543b24dfd1a9a16cce44b8070996d79896/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765277265253230686972696e67212d6a6f696e25323075732d6f72616e6765" alt="我们正在招聘" data-canonical-src="https://img.shields.io/badge/we're%20hiring!-join%20us-orange" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-what-is-sofa" class="anchor" aria-hidden="true" tabindex="-1" href="#what-is-sofa"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是沙发</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOFA 是一个开源框架，针对基于有限元法 (FEM) 的交互式物理模拟，重点是医学模拟和机器人技术。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+它主要供研究社区帮助培育更新的算法，但也可以用作有效的原型设计工具。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+SOFA 先进的软件架构允许：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过将新算法与现有算法相结合来创建复杂且不断发展的模拟</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">修改模拟的关键参数，例如变形行为、表面表示、解算器、约束、碰撞算法等。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用图形描述从简单模型合成复杂模型</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用抽象方程求解器有效模拟相互作用对象的动力学</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种算法和数学模型的比较</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOFA 通常作为独立软件 (runSofa) 和模拟工具呈现，但该项目最重要的是一组库，因此可以在任何项目中使用/集成。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOFA 提供了一个插件系统，允许耦合附加代码以添加功能。许多插件已经在</font></font><a href="https://github.com/sofa-framework/sofa/tree/master/applications/plugins"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">源代码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/orgs/sofa-framework/repositories?q=plugin&amp;sort=name"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">沙发框架组织</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和 Marketplace 中</font></font><a href="https://www.sofa-framework.org/applications/marketplace/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引用</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。请随时联系我们以获取您自己的插件参考！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-how-to-download-and-install" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-download-and-install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何下载和安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参考SOFA下载页面： https: </font></font><a href="https://www.sofa-framework.org/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//www.sofa-framework.org/download/</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-how-to-contribute" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-contribute"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOFA 社区将很高兴欢迎您！</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+找到为该项目做出贡献的所有方式：</font></font><a href="https://www.sofa-framework.org/community/get-involved/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.sofa-framework.org/community/get-involved/</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在创建任何问题或拉取请求之前，请仔细阅读</font></font><a href="https://github.com/sofa-framework/sofa/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的贡献规则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-information" class="anchor" aria-hidden="true" tabindex="-1" href="#information"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-authors" class="anchor" aria-hidden="true" tabindex="-1" href="#authors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作者</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/sofa-framework/sofa/blob/master/Authors.txt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作者.txt</font></font></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-licenses" class="anchor" aria-hidden="true" tabindex="-1" href="#licenses"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOFA 是 LGPL，但以下情况除外：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序/项目 (GPL)</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序/教程 (GPL)</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">具有指定不同许可证的许可证文件的目录</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LGPL 是指由自由软件基金会发布的 GNU Lesser General Public License；许可证版本 2.1 或（由您选择）任何更高版本。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPL是指自由软件基金会发布的GNU通用公共许可证；许可证的版本 2，或（由您选择）任何更高版本。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" tabindex="-1" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></h3>
+<p dir="auto"><a href="mailto:contact@sofa-framework.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contact@sofa-framework.org</font></font></a></p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOFA，仿真开放框架架构</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+(c) 2006 INRIA、USTL、UJF、CNRS、MGH</font></font></p>
+</article></div>
